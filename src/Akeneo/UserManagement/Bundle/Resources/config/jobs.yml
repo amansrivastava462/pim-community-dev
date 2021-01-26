@@ -142,4 +142,3 @@ services:
                 - 'xlsx_user_group_import'
         tags:
             - { name: akeneo_batch.job.job_parameters.constraint_collection_provider }
-
